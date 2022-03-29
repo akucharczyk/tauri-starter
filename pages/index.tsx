@@ -18,7 +18,6 @@ const Home: NextPage = () => {
         >
           <h1
             className='text-8xl font-bold mx-auto mb-8 bg-gradient-to-br from-blue-500 via-blue-500 to-blue-600 bg-clip-text py-2'
-            style={{ "-webkit-text-fill-color": "transparent" }}
           >
             MadeByAntoni
           </h1>

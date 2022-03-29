@@ -1,10 +1,10 @@
 {
   "package": {
     "productName": "Tauri Starter by MadeByAntoni",
-    "version": "0.1.0"
+    "version": "1.0.0"
   },
   "build": {
-    "distDir": "../out",
+    "distDir": "../.next",
     "devPath": "http://localhost:3000",
     "beforeDevCommand": "yarn dev",
     "beforeBuildCommand": "yarn build"

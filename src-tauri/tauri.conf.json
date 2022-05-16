@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.antoni.starter.dev",
+      "identifier": "com.defichainincome.tauri",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
